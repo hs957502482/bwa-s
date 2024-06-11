@@ -1,0 +1,8 @@
+occ_intv:128,read_name:SRR6889465_1kw.fastq,aln_time:104.415 = read_fa:0.000 + restore_bwt:3.357 + read_seq:4.289 + bwa_cal_sa_reg_gap_time:0.000 + sai_store:0.617 + destroy:0.094
+occ_intv:128,sa_intv:32,read_name:SRR6889465_1kw.fastq,samse_time:65.917 , init_time:4.790 , restore_bwt_sa_time:0.000 , read_seq_time: 4.298 ,while内部其他运算:56.709 ,destroy:0.000
+occ_intv:128,read_name:SRR6889465_500w.fastq,aln_time:54.444 = read_fa:0.000 + restore_bwt:3.539 + read_seq:2.343 + bwa_cal_sa_reg_gap_time:0.000 + sai_store:0.302 + destroy:0.092
+occ_intv:128,sa_intv:32,read_name:SRR6889465_500w.fastq,samse_time:37.220 , init_time:6.116 , restore_bwt_sa_time:0.000 , read_seq_time: 2.406 ,while内部其他运算:28.575 ,destroy:0.000
+occ_intv:128,read_name:SRR6889465_200w.fastq,aln_time:23.658 = read_fa:0.000 + restore_bwt:3.374 + read_seq:0.942 + bwa_cal_sa_reg_gap_time:0.000 + sai_store:0.119 + destroy:0.093
+occ_intv:128,sa_intv:32,read_name:SRR6889465_200w.fastq,samse_time:17.284 , init_time:4.844 , restore_bwt_sa_time:0.000 , read_seq_time: 0.840 ,while内部其他运算:11.473 ,destroy:0.000
+occ_intv:128,read_name:SRR6889465_100w.fastq,aln_time:13.933 = read_fa:0.000 + restore_bwt:3.430 + read_seq:0.464 + bwa_cal_sa_reg_gap_time:0.000 + sai_store:0.063 + destroy:0.091
+occ_intv:128,sa_intv:32,read_name:SRR6889465_100w.fastq,samse_time:11.478 , init_time:4.769 , restore_bwt_sa_time:0.000 , read_seq_time: 0.443 ,while内部其他运算:6.144 ,destroy:0.000

@@ -1,0 +1,4 @@
+occ_intv:128,sa_intv:32,read_name:SRR26828225_1kw.fastq,samse_time:90.818 , init_time:4.936 , restore_bwt_sa_time:0.000 , read_seq_time: 4.452 ,while内部其他运算:81.311 ,destroy:0.000
+occ_intv:128,sa_intv:32,read_name:SRR26828225_500w.fastq,samse_time:47.911 , init_time:5.073 , restore_bwt_sa_time:0.000 , read_seq_time: 2.572 ,while内部其他运算:40.145 ,destroy:0.000
+occ_intv:128,sa_intv:32,read_name:SRR26828225_200w.fastq,samse_time:22.347 , init_time:4.922 , restore_bwt_sa_time:0.000 , read_seq_time: 0.975 ,while内部其他运算:16.329 ,destroy:0.000
+occ_intv:128,sa_intv:32,read_name:SRR26828225_100w.fastq,samse_time:13.962 , init_time:4.802 , restore_bwt_sa_time:0.000 , read_seq_time: 0.531 ,while内部其他运算:8.507 ,destroy:0.000
